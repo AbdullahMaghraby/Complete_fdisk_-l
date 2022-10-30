@@ -1,5 +1,5 @@
 # Complete_fdisk_-l
-Manipulate disk partition table
+Manipulate disk MBR partition table
 
 ## View Real Disk Partition using _gparted_
 
